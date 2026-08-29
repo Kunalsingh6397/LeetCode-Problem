@@ -5,6 +5,7 @@ class Solution {
         int[] ans={-1,-1};
         while(s<=e){
             int mid=s+(e-s)/2;
+
             if(nums[mid]==target && mid==0){
                 ans[0]=0;
                 break;
@@ -23,8 +24,10 @@ class Solution {
                 s=mid+1;
             }
         }
+
         s=0;
         e=nums.length-1;
+        
         while(s<=e){
             int mid=s+(e-s)/2;
             if(nums[mid]==target && mid==nums.length-1){
