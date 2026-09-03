@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0796-rotate-string) |
+| [0830-positions-of-large-groups](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0830-positions-of-large-groups) |
 ## Trie
 |  |
 | ------- |
