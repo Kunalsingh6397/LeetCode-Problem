@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
