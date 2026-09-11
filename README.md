@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 ## Stack
 |  |
