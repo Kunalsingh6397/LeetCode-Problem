@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 ## Stack
 |  |
