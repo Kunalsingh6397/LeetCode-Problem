@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1550-three-consecutive-odds](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
