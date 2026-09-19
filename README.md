@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1805-number-of-different-integers-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0796-rotate-string) |
 | [0830-positions-of-large-groups](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0830-positions-of-large-groups) |
 | [1108-defanging-an-ip-address](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1108-defanging-an-ip-address) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1805-number-of-different-integers-in-a-string) |
 ## Trie
 |  |
 | ------- |
