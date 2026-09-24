@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1550-three-consecutive-odds](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1805-number-of-different-integers-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0713-subarray-product-less-than-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Brainteaser
 |  |
 | ------- |
