@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+| [0541-reverse-string-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0796-rotate-string) |
 | [0830-positions-of-large-groups](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0830-positions-of-large-groups) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0541-reverse-string-ii) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
