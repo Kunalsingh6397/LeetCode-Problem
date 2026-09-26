@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
