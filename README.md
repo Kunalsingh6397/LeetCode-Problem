@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+| [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2235-add-two-integers) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -198,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
