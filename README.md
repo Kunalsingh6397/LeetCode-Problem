@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2235-add-two-integers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
