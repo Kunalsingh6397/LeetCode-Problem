@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
+| [0593-valid-square](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0593-valid-square) |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2235-add-two-integers) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3871-count-commas-in-range-ii) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
