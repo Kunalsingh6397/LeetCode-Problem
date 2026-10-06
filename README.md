@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0796-rotate-string) |
 | [0830-positions-of-large-groups](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0830-positions-of-large-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
