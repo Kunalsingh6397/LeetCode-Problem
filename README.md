@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0962-maximum-width-ramp](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0962-maximum-width-ramp) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1550-three-consecutive-odds) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
