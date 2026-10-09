@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0593-valid-square) |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2235-add-two-integers) |
+| [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -224,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
+| [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 ## Primality Test
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
+| [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 ## Combinatorics
 |  |
 | ------- |
