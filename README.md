@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0027-remove-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
