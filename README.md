@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
