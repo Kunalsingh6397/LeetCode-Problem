@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2235-add-two-integers) |
 | [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
