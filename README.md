@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0292-nim-game) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0593-valid-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
