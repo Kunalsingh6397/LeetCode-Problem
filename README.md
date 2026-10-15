@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3115-maximum-prime-difference](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3115-maximum-prime-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0029-divide-two-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
