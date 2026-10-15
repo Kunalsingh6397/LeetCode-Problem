@@ -6,7 +6,6 @@ class Solution {
         long a = Math.abs((long) dividend);
         long b = Math.abs((long) divisor);
         int result = 0;
-
         while (a >= b) {
             long temp = b, multiple = 1;
             while (a >= (temp << 1)) {
@@ -16,7 +15,6 @@ class Solution {
             a -= temp;
             result += multiple;
         }
-
         return (dividend > 0) == (divisor > 0) ? result : -result;
     }
 }
