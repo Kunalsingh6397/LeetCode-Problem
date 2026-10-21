@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
@@ -280,4 +281,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
