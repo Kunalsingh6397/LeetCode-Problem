@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0078-subsets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
