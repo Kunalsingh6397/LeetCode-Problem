@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -304,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kunalsingh6397/LeetCode-Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
